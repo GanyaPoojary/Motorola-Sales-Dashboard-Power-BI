@@ -52,8 +52,7 @@ To analyze mobile sales data and derive meaningful business insights using inter
 * Designing user-friendly reports
 
 🙌 Acknowledgement
-
 This project was developed during the **SkillCourse Power BI Program** by Satish Dhawale.
-
+🔗 [View Project](https://github.com/GanyaPoojary/Motorola-Sales-Dashboard-Power-BI)
 
 
